@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813442798533",
+    "project_id": "fseg-1c70b",
+    "storage_bucket": "fseg-1c70b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813442798533:android:728faebb916deff8fef1ac",
+        "android_client_info": {
+          "package_name": "com.example.fseg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkwKlVH5eLBQx2Clkm_MK9pQgICPqUczs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
